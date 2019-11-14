@@ -1,6 +1,6 @@
 # How to Run Project
  Prerequisite: Node js instllation
- - cd <Project Location>
+ - cd "Project Location"
  - "npm install" - to install dependencies
  - "npm start" -for starting project
  - "npm stop" - for stopping the project
