@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "pm2 start app.js -i max",
+    "start": "pm2 start app.js -o ./out.log -e ./err.log -i 0",
     "stop": "pm2 stop all"
   },
   "dependencies": {
