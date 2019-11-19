@@ -1,3 +1,6 @@
+# Avout 
+Given a task dependency graph, need to find if a particular task is open or not or if there exist any dependency loop. 
+
 # How to Run Project
  Prerequisite: Node js 10+ installation
  - cd "Project Location"
