@@ -1,4 +1,4 @@
-# Avout 
+# About 
 Given a task dependency graph, need to find if a particular task is open or not or if there exist any dependency loop. 
 
 # How to Run Project
