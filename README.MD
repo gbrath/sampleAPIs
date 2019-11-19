@@ -4,11 +4,7 @@
  - "npm install" - to install dependencies
  - "npm start" -for starting project
  - "npm stop" - for stopping the project
- 
-Dev server would be running on http://localhost:3000 
-## Live API
 
-  http://13.233.247.113/api/task/status
 
 ## api details
 
